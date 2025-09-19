@@ -52,5 +52,3 @@ A small Python demo project that simulates a messaging automation bot with Googl
 - Make `kpi` calculation configurable with weights and more metrics.
 - Persist events to a lightweight DB (SQLite) and add unit tests.
 
-## License
-MIT
