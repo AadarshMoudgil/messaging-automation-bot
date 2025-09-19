@@ -1,0 +1,12 @@
+{
+  "pinned_header": "\ud83d\udce3 Messaging Automation Bot \u2014 Demo",
+  "daily_post_time_pacific": "08:00",
+  "pinned_messages": [
+    "Welcome to the Messaging Automation Bot demo.",
+    "This project uses mocked calendar data only."
+  ],
+  "settings": {
+    "timezone": "US/Pacific",
+    "daily_digest_enabled": true
+  }
+}
